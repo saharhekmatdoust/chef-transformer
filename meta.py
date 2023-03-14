@@ -22,15 +22,6 @@ STORY = """
 Hello everyone this is sahar and boshra working on this app 👋, the main source for this app is streamlit galley and https://github.com/chef-transformer/chef-transformer
 </p>
 
-<pre>[Inputs]
-    {food items*: separated by comma}
-     
-[Targets]
-    title: {TITLE} &lt;section>
-    ingredients: {INGREDIENTS: separated by &lt;sep>} &lt;section>
-    directions: {DIRECTIONS: separated by &lt;sep>}.
-</pre>
-
 <p>
   <em>In the cookbooks (a.k.a <a href="https://huggingface.co/datasets/recipe_nlg">dataset</a>), the food items were referred to as NER. </em>
 </p>
