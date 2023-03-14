@@ -22,17 +22,5 @@ STORY = """
 Hello everyone this is sahar and boshra working on this app 👋, the main source for this app is streamlit galley and https://github.com/chef-transformer/chef-transformer
 </p>
 
-<p>
-  <em>In the cookbooks (a.k.a <a href="https://huggingface.co/datasets/recipe_nlg">dataset</a>), the food items were referred to as NER. </em>
-</p>
-<p>
-In the span of a week, my chefs went from spitting out nonsense to creating masterpieces. 
-Their learning rate was exceptionally high and each batch of recipes was better than the last. <br />
-In their final exam, they achieved <a href="https://huggingface.co/flax-community/t5-recipe-generation#evaluation">high scores</a> 💯 in a 
-standardized industry test and established this restaurant 🍲. Please tell your friends and family about us! 
-We create each recipe with a smile on our faces 🤗 Everyone at the restaurant is grateful for the generous support of 
-HuggingFace and Google for hosting Flax Community week. 
-</p>
-
 </div>
 """.strip()
